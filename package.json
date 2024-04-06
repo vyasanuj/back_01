@@ -1,0 +1,22 @@
+{
+  "name": "backend01",
+  "version": "1.0.0",
+  "description": "first git uplode ",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "back_01"
+  },
+  "keywords": [
+    "node",
+    "Radhika"
+  ],
+  "author": "Anuj vyas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
